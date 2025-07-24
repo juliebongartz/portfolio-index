@@ -28,7 +28,7 @@ Welcome! This repository provides an overview of selected private projects I’v
 
 ## Accessing Private Repos
 To view any private repo:
-1. [Open an issue](https://github.com/leannejules/portfolio-index/issues/new) with the project name.
+1. [Open an issue](https://github.com/juliebongartz/portfolio-index/issues/new) with the project name.
 2. Describe who you are (e.g., recruiter, collaborator).
 3. I’ll grant you temporary read-only access.
 
@@ -36,5 +36,5 @@ To view any private repo:
 
 ## 📫 Contact
 - Email: juliebongartz@email.com
-- GitHub: [@leannejules](https://github.com/leannejules)
+- GitHub: [@juliebongartz](https://github.com/juliebongartz)
 - LinkedIn: [linkedin.com/in/julie-bongartz](https://linkedin.com/in/julie-bongartz)
