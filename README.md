@@ -12,7 +12,7 @@ Welcome! This repository provides an overview of selected private projects I’v
 ### 2. Naive Bayes Text Classifier
 - **Topics:** NLP, classification
 - **Skills:** Text preprocessing, vectorization, probabilistic modeling
-- **Request access:** `aive-bayes-text-classifier`
+- **Request access:** `naive-bayes-text-classifier`
 
 ### 3. Phylogenetic Tree Construction using UPGMA
 - **Topics:** Evolutionary biology, clustering
