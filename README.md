@@ -29,6 +29,11 @@ Welcome! This repository provides an overview of selected private projects I’v
 - **Skills:** Monte Carlo simulation, gamma distribution, SIR dynamics, matplotlib plotting
 - **Request access:** `stochastic-gamma-sir-simulation`
 
+### 6. Decision Tree Classifier for Student Project Categorization  
+- **Topics:** Supervised learning, text classification  
+- **Skills:** Scikit-learn, preprocessing, decision trees, evaluation metrics  
+- **Request access:** `decision-tree-classifier`  
+
 ---
 
 ## Accessing Private Repos
