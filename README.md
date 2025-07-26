@@ -44,7 +44,7 @@ To view any private repo:
 
 ---
 
-## 📫 Contact
+## Contact
 - Email: juliebongartz@email.com
 - GitHub: [@juliebongartz](https://github.com/juliebongartz)
 - LinkedIn: [linkedin.com/in/julie-bongartz](https://linkedin.com/in/julie-bongartz)
