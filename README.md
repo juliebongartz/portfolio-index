@@ -32,7 +32,13 @@ Welcome! This repository provides an overview of selected private projects I’v
 ### 6. Decision Tree Classifier for Student Project Categorization  
 - **Topics:** Supervised learning, text classification  
 - **Skills:** Scikit-learn, preprocessing, decision trees, evaluation metrics  
-- **Request access:** `decision-tree-classifier`  
+- **Request access:** `decision-tree-classifier`
+
+### 7. Library Web Application  
+- **Topics:** Full-stack web development, REST API design, user authentication, and database management  
+- **Skills:** Python, Flask, SQLAlchemy, SQLite, JWT authentication, HTML/CSS, pytest  
+- **Request access:** `library-webapp`  
+- **Note:** This was a group project completed collaboratively.
 
 ---
 
