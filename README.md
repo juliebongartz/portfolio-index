@@ -19,10 +19,15 @@ Welcome! This repository provides an overview of selected private projects I’v
 - **Skills:** Distance matrices, UPGMA algorithm
 - **Request access:** `phylogenetic-tree-upgma`
 
-### 2. Daisyworld Simulation and Carrying Capacity
+### 4. Daisyworld Simulation and Carrying Capacity
 - **Topics:** Planetary homeostasis, environmental modelling
 - **Skills:** Feedback systems, carrying capacity visualization, Jupyter plotting
 - **Request access:** `daisyworld-simulation`
+
+### 5. Stochastic Gamma Sampling and SIR Simulation
+- **Topics:** Probability distributions, epidemic modelling
+- **Skills:** Monte Carlo simulation, gamma distribution, SIR dynamics, matplotlib plotting
+- **Request access:** `stochastic-gamma-sir-simulation`
 
 ---
 
