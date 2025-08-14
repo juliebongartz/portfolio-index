@@ -36,9 +36,8 @@ Welcome! This repository provides an overview of selected private projects I’v
 
 ### 7. Library Web Application  
 - **Topics:** Full-stack web development, REST API design, user authentication, and database management  
-- **Skills:** Python, Flask, SQLAlchemy, SQLite, JWT authentication, HTML/CSS, pytest  
+- **Skills:** Python, Flask, SQLAlchemy, SQLite, HTML/CSS, pytest  
 - **Request access:** `library-webapp`  
-- **Note:** This was a group project completed collaboratively.
 
 ---
 
