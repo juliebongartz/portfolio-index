@@ -42,7 +42,7 @@ Welcome! This repository provides an overview of selected private projects I’v
  ### 8. News Text Classification - TF-IDF & BoW (NB, K-NN, SVM, MLP)  
 - **Topics:** Binary text classification, TF-IDF & Binary BoW, EDA/visualisation, model comparison, 5-fold stratified cross-validation, F₁ evaluation, dimensionality reduction (PCA/SVD), decision-boundary plots
 - **Skills:** Python, scikit-learn, NumPy, pandas, matplotlib, Jupyter, TfidfVectorizer, CountVectorizer, MultinomialNB, KNeighborsClassifier, SVC, MLPClassifier, TruncatedSVD 
-- **Request access:** `news-text-classification-tfidf`  
+- **Request access:** `news-text-classification`  
 
 ---
 
